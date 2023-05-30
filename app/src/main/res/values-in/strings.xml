@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SubmissionStoryApp2</string>
+    <string name="login">Masuk</string>
+    <string name="dummy_name">username</string>
+    <string name="hai">Selamat Datang Kembali</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="or_register">atau <font color="#818cf8">Daftar</font></string>
+    <string name="register_failed">Gagal Daftar, Mohon Coba Lagi..</string>
+    <string name="register_success">Berhasil Daftar, Harap Masuk..</string>
+    <string name="upload">Unggah</string>
+    <string name="camera">KAMERA</string>
+    <string name="gallery">GALERI</string>
+    <string name="description">Deskripsi</string>
+    <string name="name">Nama</string>
+    <string name="create_account">Buat Akun</string>
+    <string name="register">Daftar</string>
+    <string name="or_login">atau <font color="#818cf8">Masuk</font></string>
+
+    <string name="password_minimum_character">Kata Sandi minimal 8 karakter</string>
+
+    <string name="login_failed">Gagal Masuk, Harap Coba Lagi..</string>
+
+    <string name="please_choose_image">Harap pilih gambar lebih dulu.</string>
+    <string name="add_story_success">Berhasil menambahkan cerita!</string>
+    <string name="cant_get_permission">Tidak mendapatkan izin</string>
+
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satelit</string>
+    <string name="terrain_type">Medan</string>
+    <string name="hybrid_type">Campuran</string>
+</resources>
